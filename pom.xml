@@ -14,7 +14,7 @@
 	<name>backendArgentinaPrograma</name>
 	<description>back end del proyecto final de argentina programa, autor miguel angel sotelo de tucuman, cohorte de noviembre de 2021 a ,mayo de 2022</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
